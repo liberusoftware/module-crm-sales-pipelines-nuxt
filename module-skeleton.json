@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-sales-pipelines-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-sales-pipelines",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-sales-pipelines-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/sales-pipelines.md",
+  "presentationPlan": "projects/crm/nuxt/sales-pipelines.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
